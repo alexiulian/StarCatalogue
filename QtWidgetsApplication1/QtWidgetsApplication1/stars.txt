@@ -1,0 +1,5 @@
+Star1,andromeda,20,10,22
+Star2,platon,27,1,22
+Star3,andromeda,200,510,22
+Star4,platon,89,100,22
+Star5,andromeda,81,90,22
