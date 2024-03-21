@@ -8,9 +8,8 @@ This C++ application is designed to help astronomers catalogue stars. It allows 
 
 - Adding New Stars: Astronomers can add new stars to the catalogue. The application automatically assigns the constellation studied by the astronomer to the newly added star. Adding a star fails if the name is empty, if another star with the same name already exists, or if the diameter is less than or equal to 0.
 
-- Star Search: Astronomers can search for stars by name. The search results are displayed in a list, which updates as the astronomer types the name.
-
 - Real-time Catalogue Update: Whenever a star is added, all astronomers will see the modified catalogue of stars. This functionality is implemented using the Qt Model/View architecture.
+- It is developed fully in **C++** and uses **QT** for the Graphical User Interface
 
 # Photos
 - This is how it look, a window is open for every astronomer that was read from file.
